@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/">
+        <file>images/doodle_1.png</file>
+        <file>images/blackhole.png</file>
+        <file>images/bullet.png</file>
+        <file>images/doodle_protected.png</file>
+        <file>images/doodle_rocket.png</file>
+        <file>images/monster.png</file>
+        <file>images/protect.png</file>
+        <file>images/rocket.png</file>
+        <file>images/spring.png</file>
+        <file>images/doodle_2.png</file>
+        <file>images/disappear_platform.png</file>
+        <file>images/moving_platform.png</file>
+        <file>images/normal_platform.png</file>
+        <file>images/BG.png</file>
+    </qresource>
+</RCC>
